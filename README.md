@@ -7,40 +7,27 @@ I sometimes make my own wiki about things but I feel plugins for OBS being such 
 
 ---
 
+# OBS Plugins List
+
 <details>
-  <summary>Click me</summary>
+<summary>Ashmanix Countdown Timer</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
-<summary># OBS Plugins List</summary>summary>
-<details>
 ### Ashmanix Countdown Timer
 https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/  
 This plugin is designed to allow you to use a text source in OBS to show a countdown timer that updates in real time. You can have multiple timers that can count up and down.  
 The plugin appears as a dockable widget and comes with options to display a message or switch scene when the counter reaches zero.
 </details>
-<details>
+
+
 ### Gradient Source
 https://obsproject.com/forum/resources/gradient-source.1172/  
-Gradient Source for OBS studio
-</details>details>
-<details>
+Gradient Source for OBS studio  
+
+
 ### Win Capture Audio
 https://obsproject.com/forum/resources/win-capture-audio.1338/  
 Similar to OBS's win-capture/game-capture that allows for audio capture from a specific application, rather than the system's audio as a whole. This eliminates the need for third-party software or hardware audio mixing tools that introduce complexity, and in the case of software tools, introduce mandatory latency.  
-</details>
+
 
 ### OBS Shader Filter
 https://obsproject.com/forum/resources/obs-shaderfilter.1736/  
