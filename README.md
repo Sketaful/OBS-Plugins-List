@@ -10,9 +10,7 @@ I sometimes make my own wiki about things but I feel plugins for OBS being such 
 # OBS Plugins List
 
 <details>
-<summary>Ashmanix Countdown Timer</summary>
-  
-### Ashmanix Countdown Timer
+<summary>Ashmanix Countdown Timer</summary>  
 https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/  
 This plugin is designed to allow you to use a text source in OBS to show a countdown timer that updates in real time. You can have multiple timers that can count up and down.  
 The plugin appears as a dockable widget and comes with options to display a message or switch scene when the counter reaches zero.
