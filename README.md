@@ -1,25 +1,46 @@
 # OBS-Plugins-List
 Just my list of plugins for OBS so I get an easier overview. Will sort them and add info for each, and more later. I'm messing around with OBS more to learn it and help friends with it than I do actual stream because, well, I'm to boring. :P
 
+All plugins have some info cut from their respective page added so I know what the hell they do. I will change that to my own words of description later as I go through them. I know I like them all but I also mix them up and forget what does what so I need to do this one at a time. This is for my own sake to know better what I'm using to do each thing I play around with. Chances are I'm going to link these plugins to their own pages in this repository to make a better overview with screens and stuff. 
+
+I sometimes make my own wiki about things but I feel plugins for OBS being such a small thing that installing and running a wiki on my webserver just for that is to much. (Beside, I never get time doing it right, which my amiga wiki is a sad sad testimony on.
+
 ---
 
-# OBS Plugins List
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+</details>
+<summary># OBS Plugins List</summary>summary>
 
 ### Ashmanix Countdown Timer
 https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/  
 This plugin is designed to allow you to use a text source in OBS to show a countdown timer that updates in real time. You can have multiple timers that can count up and down.  
 The plugin appears as a dockable widget and comes with options to display a message or switch scene when the counter reaches zero.
-
-
+<details>
+<details>
 ### Gradient Source
 https://obsproject.com/forum/resources/gradient-source.1172/  
 Gradient Source for OBS studio
-
-
+<details>
+<details>
 ### Win Capture Audio
 https://obsproject.com/forum/resources/win-capture-audio.1338/  
 Similar to OBS's win-capture/game-capture that allows for audio capture from a specific application, rather than the system's audio as a whole. This eliminates the need for third-party software or hardware audio mixing tools that introduce complexity, and in the case of software tools, introduce mandatory latency.  
-
+</details>
 
 ### OBS Shader Filter
 https://obsproject.com/forum/resources/obs-shaderfilter.1736/  
