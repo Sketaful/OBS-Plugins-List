@@ -416,14 +416,14 @@ Make a source scale reactively to the sound of an audio source
 </details>  
 <details>
 <summary>OBS hadowplay</summary>  
-https://obsproject.com/forum/resources/transition-table.1174/  
+https://obsproject.com/forum/resources/obs-hadowplay.1728/  
 
 
 ---
 
 </details>  
 <details>
-## Transition Table</summary>  
+<summary></summary>Transition Table</summary>  
 https://obsproject.com/forum/threads/transition-table.136490/  
 
 
