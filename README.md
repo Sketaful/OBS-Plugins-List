@@ -406,11 +406,11 @@ Similar to OBS's win-capture/game-capture that allows for audio capture from a s
 ---
 
 </details>  
----
 
-NOT PLUGINS
 
----
+# Streamer.Bot Scripts
+
+
 <details>
 <summary>Nutty's Multistream Title Updater (streamer.bot)</summary>  
 https://nutty.gg/en-sek/products/multistream-title-updater  
