@@ -31,6 +31,7 @@ Gradient Source for OBS studio
 <details>
 <summary>Win Capture Audio</summary>  
 https://obsproject.com/forum/resources/win-capture-audio.1338/  
+ 
 Similar to OBS's win-capture/game-capture that allows for audio capture from a specific application, rather than the system's audio as a whole. This eliminates the need for third-party software or hardware audio mixing tools that introduce complexity, and in the case of software tools, introduce mandatory latency.  
 
 ---
@@ -46,6 +47,7 @@ https://obsproject.com/forum/resources/obs-shaderfilter.1736/
 <details>
 <summary>OBS Advanced Mask</summary>  
 https://obsproject.com/forum/resources/advanced-masks.1856/  
+ 
 This plug-in provides filters for users to create intricate and customized masks for their OBS Scenes and Sources.  
 
 * Advanced Masks provides both Alpha Masking and Adjustment Masking and supports Windows, MacOS, and Linux.
@@ -60,6 +62,7 @@ This plug-in provides filters for users to create intricate and customized masks
 <details>
 <summary>Stroke Glow Shadow</summary>  
 https://obsproject.com/forum/resources/stroke-glow-shadow.1800/  
+
 The Stroke, Glow, Shadow Plugin offers an efficient way to apply Stroke, Glow, and Shadow effects to masked sources in OBS.  
 
 * Stroke, Glow, Shadow, as the name implies, provides effects for applying Stroke, Glow, and Drop Shadow to any masked sources in OBS. You can use these effects on everything from a chroma-keyed facecam to a native OBS text source.
@@ -73,6 +76,7 @@ The Stroke, Glow, Shadow Plugin offers an efficient way to apply Stroke, Glow, a
 <details>
 <summary>Composite Blur</summary>  
 https://obsproject.com/forum/resources/composite-blur.1780/  
+ 
 Composite Blur Plugin is a comprehensive blur plugin that provides blur algorithms and types for all levels of quality and computational need.
 
 * Composite Blur provides several highly optimized blur algorithms including Gaussian, Multi-Pass Box, Dual Kawase, and Pixelate. Composite Blur also support Windows, MacOS, and Linux for all blur types.
@@ -86,6 +90,7 @@ Composite Blur Plugin is a comprehensive blur plugin that provides blur algorith
 <details>
 <summary>3D Effects</summary>  
 https://obsproject.com/forum/resources/3d-effect.1692/  
+ 
 Add a 3D effect filter to sources in OBS  
 
 ---
@@ -94,6 +99,7 @@ Add a 3D effect filter to sources in OBS
 <details>
 <summary>Downstream Keyer</summary>  
 https://obsproject.com/forum/resources/downstream-keyer.1254/  
+ 
 This plugin adds a Downstream Keyer dock to OBS studio.  
 
 ---
@@ -102,6 +108,7 @@ This plugin adds a Downstream Keyer dock to OBS studio.
 <details>
 <summary>Source Clone</summary>  
 https://obsproject.com/forum/resources/source-clone.1632/  
+ 
 Add source to OBS that lets you clone sources to allow different filters than the original  
 
 ---
@@ -110,6 +117,7 @@ Add source to OBS that lets you clone sources to allow different filters than th
 <details>
 <summary>Move</summary>  
 https://obsproject.com/forum/resources/move.913/  
+ 
 Plugin for OBS Studio to move sources to a new position during scene transition.  
 If the 2 scenes contain a source with similar name (configured with settings) it will do the move the position and size between the 2 positions.  
 
@@ -119,6 +127,7 @@ If the 2 scenes contain a source with similar name (configured with settings) it
 <details>
 <summary>Aitum Vertical</summary>  
 https://obsproject.com/forum/resources/aitum-vertical.1715/  
+ 
 Make content for TikTok, YouTube Shorts, Instagram Live, and more without the fuss. Use a separate canvas to manage your vertical content, and link your normal & vertical scenes together for seamless synchronisation between your platforms.  
 
 ---
@@ -127,6 +136,7 @@ Make content for TikTok, YouTube Shorts, Instagram Live, and more without the fu
 <details>
 <summary>Aitum Multistream</summary>  
 https://obsproject.com/forum/resources/aitum-multistream.1991/  
+ 
 Aitum Multistream allows you to stream everywhere from a single instance of OBS.Twitch, YouTube, TikTok, anywhere and everywhere you want.  
 
 ---
@@ -135,6 +145,7 @@ Aitum Multistream allows you to stream everywhere from a single instance of OBS.
 <details>
 <summary>Nutty's Multistream Title Updater (streamer.bot)</summary>  
 https://nutty.gg/en-sek/products/multistream-title-updater  
+ 
 Update your Twitch, YouTube and Kick from one neat little OBS dock!
 
 * Supports Twitch, YouTube, and Kick
@@ -158,6 +169,7 @@ Update your Twitch, YouTube and Kick from one neat little OBS dock!
 <details>
 <summary>OBS Draw</summary>  
 https://obsproject.com/forum/resources/draw.2081/  
+ 
 The Draw plugin for OBS Studio allows you to draw on your stream output in a dock.  
 
 ---
@@ -166,6 +178,7 @@ The Draw plugin for OBS Studio allows you to draw on your stream output in a doc
 <details>
 <summary>Encoder Region of Interest</summary>  
 https://obsproject.com/forum/resources/encoder-region-of-interest-editor.1904/  
+ 
 Features  
 * Per-Scene configuration
 * Scene Item Region
@@ -181,6 +194,7 @@ Features
 <details>
 <summary>Source Profiler</summary>  
 https://github.com/exeldro/obs-source-profiler  
+ 
 Plugin for OBS Studio to add Source Profiler to tools menu  
 
 ---
@@ -189,6 +203,7 @@ Plugin for OBS Studio to add Source Profiler to tools menu
 <details>
 <summary>OBS Quick Access Utility</summary>  
 https://obsproject.com/forum/resources/quick-access-utility-qau.2002/  
+ 
 *Moo-ve over, cluttered docks. No more bull. Making your sources udderly easy to cow-nect with.​*  
 Quick Access Utility (QAU) is the cream of the crop for OBS plugins, letting you manage and edit your sources without having to change scenes or udderly disrupting your workflow. With features like hotkeys, transform changes, and filter access all in easy-to-use docks, it's the perfect way to keep everything smooth as butter!  
 
@@ -208,6 +223,7 @@ Note that all created docks can be turned off or on from the OBS Docks menu.
 <details>
 <summary>jrDockie</summary>  
 https://obsproject.com/forum/resources/jrdockie-save-and-load-window-and-dock-layouts.1955/  
+ 
 This plugin adds a new "Dock Sets" menu to your Main Menu toolbar (or you can put the menu under an existing menu like the Docks menu).  
 From this submenu you can quickly save, load, and switch between OBS window and dock layouts (configuration of docks open, sizes, positions, etc.)  
 It can also be extremely useful when your OBS interface docks shift around and resize when toggling back and forth between full screen and non-full screen state.  
@@ -218,6 +234,7 @@ It can also be extremely useful when your OBS interface docks shift around and r
 <details>
 <summary>Input Overlay</summary>  
 https://obsproject.com/forum/resources/input-overlay.552/  
+ 
 A plugin for obs studio that shows keyboard, mouse and gamepad inputs on stream. It adds a new source for visualizing inputs.  
 
 ---
@@ -226,6 +243,7 @@ A plugin for obs studio that shows keyboard, mouse and gamepad inputs on stream.
 <details>
 <summary>Advanced Scene Switcher</summary>  
 https://obsproject.com/forum/resources/advanced-scene-switcher.395/  
+ 
 This plugin will allow you to automate various tasks using "Macros".
 Macros consist of a list of conditions under which a list of actions will be performed.  
 
@@ -318,6 +336,7 @@ Currently supported action types are:
 <details>
 <summary>Retro Effects</summary>  
 https://obsproject.com/forum/resources/retro-effects.1972/  
+ 
 An OBS plug-in that provides several filters to simulate retro hardware (e.g.- CRTs, NTSC Signals, etc...) giving your OBS sources an authentic retro look/feel. Retro effects provides the following filters.  
 
 * Chromatic Aberration
@@ -343,6 +362,7 @@ An OBS plug-in that provides several filters to simulate retro hardware (e.g.- C
 <details>
 <summary>Source Record</summary>  
 https://obsproject.com/forum/resources/source-record.1285/  
+ 
 Add a filter that allows you to record a source.  
 
 ---
@@ -352,12 +372,14 @@ Add a filter that allows you to record a source.
 <summary>StreamUP OBS Plugin</summary>  
 https://streamup.tips/Plugin  
 
+
 ---
 
 </details>  
 <details>
 <summary>DroidCam OBS Camera</summary>  
 https://obsproject.com/forum/resources/droidcam-obs-camera.1308/  
+ 
 Let's you connect your phone and get high quality audio & video directly into OBS, just like a regular camera source.  
 
 * Requires the DroidCam app, available for Android and iOS.
@@ -376,6 +398,8 @@ Let's you connect your phone and get high quality audio & video directly into OB
 </details>  
 <details>
 <summary>Scene Notes Dock</summary>  
+https://obsproject.com/forum/resources/scene-notes-dock.1398/
+
 Add notes to scenes using a dock in OBS  
 
 ---
@@ -383,6 +407,8 @@ Add notes to scenes using a dock in OBS
 </details>  
 <details>
 <summary>Scale To Sound</summary>  
+https://obsproject.com/forum/resources/scale-to-sound.1336/  
+
 Make a source scale reactively to the sound of an audio source  
 
 ---
@@ -392,12 +418,14 @@ Make a source scale reactively to the sound of an audio source
 <summary>OBS hadowplay</summary>  
 https://obsproject.com/forum/resources/transition-table.1174/  
 
+
 ---
 
 </details>  
 <details>
 ## Transition Table</summary>  
 https://obsproject.com/forum/threads/transition-table.136490/  
+
 
 ---
 
