@@ -423,7 +423,7 @@ https://obsproject.com/forum/resources/obs-hadowplay.1728/
 
 </details>  
 <details>
-<summary></summary>Transition Table</summary>  
+<summary>Transition Table</summary>  
 https://obsproject.com/forum/threads/transition-table.136490/  
 
 
