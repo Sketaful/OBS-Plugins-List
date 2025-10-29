@@ -207,6 +207,16 @@ Let's you connect your phone and get high quality audio & video directly into OB
 
 </details>  
 <details>
+<summary>Dynamic Delay</summary>  
+https://obsproject.com/forum/resources/dynamic-delay.1035/
+
+You can make live video slow down to configured speed for a as long as the set buffer duration allows you and let it speed up to catch up with live on hotkeys.
+Do rewinds, slow motion and time skipping on live sources.  
+
+---
+
+</details>  
+<details>
 <summary>Encoder Region of Interest</summary>  
 https://obsproject.com/forum/resources/encoder-region-of-interest-editor.1904/  
  
