@@ -376,6 +376,15 @@ https://streamup.tips/Plugin
 
 </details>  
 <details>
+<summary>StreamUP Scene as Transition</summary>  
+https://obsproject.com/forum/resources/streamup-scene-as-transition.1704/  
+
+This can be used to create all kinds of transitions. It is recommended to get the most out of this plugin that you use other powerful plugins such as Exeldro's Move Transition Plugin to create advanced movements.
+
+---
+
+</details>
+<details>
 <summary>Stroke Glow Shadow</summary>  
 https://obsproject.com/forum/resources/stroke-glow-shadow.1800/  
 
